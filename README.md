@@ -1,1 +1,1 @@
-# Regiszt-ci-s-weblap
+# Regisztracios-weblap
